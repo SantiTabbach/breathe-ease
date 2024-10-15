@@ -1,6 +1,12 @@
-# Welcome to your Expo app 👋
+# Welcome to Breathe Ease 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+  <img src="./assets/images/breathe-ease.svg" alt="breathe ease" />
+</p>
+
+## Introduction
+
+This app is designed to leverage the power of React Native Reanimated, delivering smooth, fluid animations that guide users through calming breathing sessions. The goal is to create a visually harmonious experience that helps reduce stress and improve focus, while showcasing the potential of advanced animations in mobile interfaces.
 
 ## Get started
 
@@ -16,35 +22,22 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## Features
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Guided Sessions: Visual and haptics cues to guide your breathing.
+- Custom Breathing Sessions: Set your desired inhale, exhale, and hold durations.
+- Progress Tracking: Monitor your sessions and see improvements over time.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Technologies Used
 
-## Get a fresh project
+- **React Native**
+- **Expo router**
+- **React native reanimated**
+- **Typescript**
 
-When you're ready, run:
+## Author
 
-```bash
-npm run reset-project
-```
+**Santi Tabbach**
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [LinkedIn](https://www.linkedin.com/in/santiago-tabbach/)
+- tabbach97@gmail.com
