@@ -1,4 +1,4 @@
-# Welcome to Breathe Ease 👋
+# Welcome to Breathe Ease 🧘🏻
 
 <p align="center">
   <img src="./assets/images/breathe-ease.svg" alt="breathe ease" />
